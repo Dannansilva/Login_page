@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "935444950505",
+    "project_id": "mitchfirebase-92caf",
+    "storage_bucket": "mitchfirebase-92caf.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:935444950505:android:8fbc62ba2a00a91c262f78",
+        "android_client_info": {
+          "package_name": "com.example.login_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDRFUKbEcISXm9GiPsHt-MjME6iIl7jct8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
